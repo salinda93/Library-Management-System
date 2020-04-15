@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94ffeb35-5528-495e-81b5-6320a72044cb" name="Default Changelist" comment="Final commit" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="946637384">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="2" />
+          <entry key="php" value="7" />
+          <entry key="sql" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="2" />
+          <entry key="PHP" value="7" />
+          <entry key="SQL" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="php" value="257" />
+          <entry key="sql" value="25" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PHP" value="257" />
+          <entry key="SQL" value="25" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="update-issue-bookdeails.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/update-issue-bookdeails.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4074">
+              <caret line="194" column="34" lean-forward="false" selection-start-line="194" selection-start-column="34" selection-end-line="194" selection-end-column="34" />
+              <folding>
+                <marker date="1557796530587" expanded="true" signature="256:334" ph="update tblis... " />
+                <marker date="1557796530587" expanded="true" signature="2697:3109" ph="SELECT tblst... tblissuedbookdetails" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="issued-books.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/issued-books.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="43" column="6" lean-forward="true" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+              <folding>
+                <marker date="1557795656809" expanded="true" signature="209:243" ph="delete from " />
+                <marker date="1557795656809" expanded="true" signature="2803:3196" ph="SELECT tblbo... tblissuedbookdetails" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/library.sql" />
+        <option value="$PROJECT_DIR$/issued-books.php" />
+        <option value="$PROJECT_DIR$/admin/update-issue-bookdeails.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="845" />
+    <option name="y" value="5" />
+    <option name="width" value="1080" />
+    <option name="height" value="1035" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="itpmproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itpmproject" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="itpmproject" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94ffeb35-5528-495e-81b5-6320a72044cb" name="Default Changelist" comment="" />
+      <created>1557764164525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557764164525</updated>
+      <workItem from="1557764165645" duration="1562000" />
+      <workItem from="1557765796588" duration="7080000" />
+      <workItem from="1557814095931" duration="1303000" />
+      <workItem from="1557900040309" duration="1365000" />
+      <workItem from="1558369297308" duration="599000" />
+      <workItem from="1586960447069" duration="404000" />
+    </task>
+    <task id="LOCAL-00001" summary="Final commit">
+      <created>1586960770975</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586960770975</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12313000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1098" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/update-issue-bookdeails.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4074">
+          <caret line="194" column="34" lean-forward="false" selection-start-line="194" selection-start-column="34" selection-end-line="194" selection-end-column="34" />
+          <folding>
+            <marker date="1557796530587" expanded="true" signature="256:334" ph="update tblis... " />
+            <marker date="1557796530587" expanded="true" signature="2697:3109" ph="SELECT tblst... tblissuedbookdetails" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/issued-books.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2919">
+          <caret line="139" column="0" lean-forward="false" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
+          <folding>
+            <marker date="1557795656809" expanded="true" signature="209:243" ph="delete from " />
+            <marker date="1557795656809" expanded="true" signature="2803:3196" ph="SELECT tblbo... tblissuedbookdetails" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/update-issue-bookdeails.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4074">
+          <caret line="194" column="34" lean-forward="false" selection-start-line="194" selection-start-column="34" selection-end-line="194" selection-end-column="34" />
+          <folding>
+            <marker date="1557796530587" expanded="true" signature="256:334" ph="update tblis... " />
+            <marker date="1557796530587" expanded="true" signature="2697:3109" ph="SELECT tblst... tblissuedbookdetails" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/issued-books.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2919">
+          <caret line="139" column="0" lean-forward="false" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
+          <folding>
+            <marker date="1557795656809" expanded="true" signature="209:243" ph="delete from " />
+            <marker date="1557795656809" expanded="true" signature="2803:3196" ph="SELECT tblbo... tblissuedbookdetails" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/update-issue-bookdeails.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4074">
+          <caret line="194" column="34" lean-forward="false" selection-start-line="194" selection-start-column="34" selection-end-line="194" selection-end-column="34" />
+          <folding>
+            <marker date="1557796530587" expanded="true" signature="256:334" ph="update tblis... " />
+            <marker date="1557796530587" expanded="true" signature="2697:3109" ph="SELECT tblst... tblissuedbookdetails" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/issued-books.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3171">
+          <caret line="151" column="46" lean-forward="false" selection-start-line="151" selection-start-column="46" selection-end-line="151" selection-end-column="46" />
+          <folding>
+            <marker date="1557795656809" expanded="true" signature="209:243" ph="delete from " />
+            <marker date="1557795656809" expanded="true" signature="2803:3196" ph="SELECT tblbo... tblissuedbookdetails" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/issued-books.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2667">
+          <caret line="127" column="46" lean-forward="false" selection-start-line="127" selection-start-column="46" selection-end-line="127" selection-end-column="46" />
+          <folding>
+            <marker date="1557795656809" expanded="true" signature="209:243" ph="delete from " />
+            <marker date="1557795656809" expanded="true" signature="2803:3196" ph="SELECT tblbo... tblissuedbookdetails" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/update-issue-bookdeails.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3759">
+          <caret line="179" column="34" lean-forward="true" selection-start-line="179" selection-start-column="34" selection-end-line="179" selection-end-column="34" />
+          <folding>
+            <marker date="1557796530587" expanded="true" signature="256:334" ph="update tblis... " />
+            <marker date="1557796530587" expanded="true" signature="2697:3109" ph="SELECT tblst... tblissuedbookdetails" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/signup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/update-issue-bookdeails.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4074">
+          <caret line="194" column="34" lean-forward="false" selection-start-line="194" selection-start-column="34" selection-end-line="194" selection-end-column="34" />
+          <folding>
+            <marker date="1557796530587" expanded="true" signature="256:334" ph="update tblis... " />
+            <marker date="1557796530587" expanded="true" signature="2697:3109" ph="SELECT tblst... tblissuedbookdetails" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/issued-books.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="43" column="6" lean-forward="true" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+          <folding>
+            <marker date="1557795656809" expanded="true" signature="209:243" ph="delete from " />
+            <marker date="1557795656809" expanded="true" signature="2803:3196" ph="SELECT tblbo... tblissuedbookdetails" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
